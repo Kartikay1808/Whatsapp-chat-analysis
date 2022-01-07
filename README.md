@@ -13,3 +13,6 @@ Before starting with the task of WhatsApp Chat analysis with Python you need to 
    4 Then email this chat to yourself and download it to your system.
 
    5 So this is how you can easily get your WhatsApp chats with any person or a group for the task of WhatsApp chat analysis. In the section below, I will take you through WhatsApp chat analysis with Python.
+   
+   
+  # Data: You can take your personal whatsapp chats to analyise the chats.You can analyze data upto 200 mb according to our this model.
